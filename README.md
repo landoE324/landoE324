@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Landon Evans</h1>
 <h3 align="center">I am a programmer from Missouri</h3>
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **C++**
 
 - 👨‍💻 All of my projects are available at [https://github.com/landoE324](https://github.com/landoE324)
 <h2 align="center">About Me</h2>
