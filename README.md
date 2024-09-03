@@ -8,9 +8,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/landoE324](https://github.com/landoE324)
 <h2 align="center">About Me</h2>
-<p align="center">My name is Landon Evans. I am currently a Senior at Jackson Highschool. I have previously been involved with FCA and ran Track for my school. Following my graduation, I plan on pursuing a Computer Science degree at Missouri State University. I want to get a remote job so that I can live anywhere. During my Senior year of high school, I have learned Javascript, CSS, and HTML, and made multiple different projects with them.
+<p align="center">My name is Landon Evans. I am currently a Sophomore at Missouri State University. I have previously been involved with FCA and ran Track for my highschool. I am currently pursuing a Computer Science degree and minoring in cybersecurity. I want to get a remote job so that I can live anywhere. During my Senior year of high school, I learned Javascript, CSS, and HTML, and made multiple different projects with them, and am currently learning python and C++.
 
-Outside of school, I enjoy playing Basketball, bowling, and going for drives. I am also currently employed by the Parks and Recreation department for the City of Cape Girardeau.
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
